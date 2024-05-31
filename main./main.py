@@ -51,4 +51,4 @@ e.pack()
 b = Button(root, text = 'Projects',
            command = projects)
 b.pack()
-root.mainloop() мои гитхаб
+root.mainloop()
